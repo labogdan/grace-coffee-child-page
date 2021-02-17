@@ -70,7 +70,7 @@ class ChildDB extends Component {
             </Col>
             <Col md={4}>
             <Row>
-              <Col xs={6}><b>Marital Status:</b></Col>
+              <Col xs={6}><b>Parents' Marital Status:</b></Col>
               <Col xs={6}>{child.marital_status_of_parents}</Col>
             </Row>
 
